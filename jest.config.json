@@ -1,0 +1,6 @@
+{
+  "clearMocks": true,
+  "coverageDirectory": "coverage",
+  "preset": "ts-jest",
+  "testEnvironment": "jsdom"
+}
