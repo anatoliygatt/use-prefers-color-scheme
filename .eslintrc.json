@@ -29,10 +29,7 @@
         "**/__tests__/**/*.[jt]s?(x)",
         "**/?(*.)+(spec|test).[jt]s?(x)"
       ],
-      "extends": ["plugin:jest/recommended"],
-      "env": {
-        "jest/globals": true
-      }
+      "extends": ["plugin:jest/recommended"]
     }
   ]
 }
