@@ -21,7 +21,8 @@
   "rules": {
     "no-fallthrough": "off",
     "no-unused-labels": "off",
-    "@typescript-eslint/no-unused-vars": "off"
+    "@typescript-eslint/no-unused-vars": "off",
+    "import/no-unresolved": ["error", { "caseSensitive": false }]
   },
   "overrides": [
     {
