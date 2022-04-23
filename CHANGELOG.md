@@ -1,3 +1,9 @@
+### [1.0.2](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.1...v1.0.2) (2022-04-23)
+
+### Bug Fixes
+
+- **deps:** remove dependency on tslib ([8af974b](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/8af974bd3f1423d43ee3e552e3b6a2e925c955e4))
+
 ### [1.0.1](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.0...v1.0.1) (2022-04-23)
 
 ### Bug Fixes
