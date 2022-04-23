@@ -1,6 +1,6 @@
 {
   "name": "@anatoliygatt/use-prefers-color-scheme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for subscribing to user's color scheme preference.",
   "keywords": [
     "react",
