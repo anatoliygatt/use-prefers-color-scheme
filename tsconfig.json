@@ -8,7 +8,6 @@
     "declarationMap": true,
     "sourceMap": true,
     "outDir": "dist/cjs",
-    "importHelpers": true,
     "isolatedModules": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
