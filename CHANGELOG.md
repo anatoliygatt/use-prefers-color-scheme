@@ -1,3 +1,9 @@
+### [1.0.3](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.2...v1.0.3) (2022-07-17)
+
+### Bug Fixes
+
+- **deps:** bump semver-regex from 3.1.3 to 3.1.4 ([2183e3b](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/2183e3b1273e0def6c57a3bbf578f919b3ad00f5))
+
 ### [1.0.2](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.1...v1.0.2) (2022-04-23)
 
 ### Bug Fixes
