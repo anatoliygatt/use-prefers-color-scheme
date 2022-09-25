@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.4...v1.0.5) (2022-09-25)
+
+### Bug Fixes
+
+- **deps-peer:** allow usage of react@^18.0.0 ([7d7ebe7](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/7d7ebe763bd320bbbad4af8d56c775ee70147713))
+
 ## [1.0.4](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.3...v1.0.4) (2022-09-25)
 
 ### Bug Fixes
