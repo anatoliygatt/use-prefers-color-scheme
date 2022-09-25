@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.3...v1.0.4) (2022-09-25)
+
+### Bug Fixes
+
+- **deps:** bump npm from 8.3.1 to 8.19.2 ([63700aa](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/63700aa92f2311f487d965b81ba78f4f264e6763))
+
 ### [1.0.3](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.2...v1.0.3) (2022-07-17)
 
 ### Bug Fixes
