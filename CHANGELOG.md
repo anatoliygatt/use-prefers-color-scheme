@@ -1,3 +1,9 @@
+## [1.0.6](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.5...v1.0.6) (2022-12-21)
+
+### Bug Fixes
+
+- **package.json:** typo in peer deps declaration ([56ded75](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/56ded7584807ec83dde370fbde01da2fbbb57985))
+
 ## [1.0.5](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.4...v1.0.5) (2022-09-25)
 
 ### Bug Fixes
