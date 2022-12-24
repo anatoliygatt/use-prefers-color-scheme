@@ -1,3 +1,9 @@
+## [1.0.7](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.6...v1.0.7) (2022-12-24)
+
+### Bug Fixes
+
+- **README:** update github ci workflow status badge url ([cf62714](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/cf62714c85bd510b64fd37e92865d29c082d0643))
+
 ## [1.0.6](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.5...v1.0.6) (2022-12-21)
 
 ### Bug Fixes
