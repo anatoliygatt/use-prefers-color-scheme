@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/anatoliygatt/use-prefers-color-scheme/actions?query=workflow%3ACI">
-    <img src="https://img.shields.io/github/workflow/status/anatoliygatt/use-prefers-color-scheme/CI/master?style=for-the-badge&logo=github&label=CI&labelColor=000000" alt="Github CI Workflow Status">
+    <img src="https://img.shields.io/github/actions/workflow/status/anatoliygatt/use-prefers-color-scheme/ci.yml?branch=master&style=for-the-badge&logo=github&label=CI&labelColor=000000" alt="Github CI Workflow Status">
   </a>
   <a href="https://www.npmjs.com/package/@anatoliygatt/use-prefers-color-scheme">
     <img src="https://img.shields.io/npm/v/@anatoliygatt/use-prefers-color-scheme.svg?style=for-the-badge&logo=npm&labelColor=000000" alt="NPM Version">
