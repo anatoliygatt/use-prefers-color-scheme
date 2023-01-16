@@ -1,3 +1,9 @@
+## [1.0.8](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.7...v1.0.8) (2023-01-16)
+
+### Bug Fixes
+
+- **deps:** bump json5 from 1.0.1 to 1.0.2 ([04f5d0b](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/04f5d0b2d1cf16ef310f28d7f075717637ae039e))
+
 ## [1.0.7](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.6...v1.0.7) (2022-12-24)
 
 ### Bug Fixes
