@@ -1,3 +1,9 @@
+## [1.0.9](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.8...v1.0.9) (2023-03-10)
+
+### Bug Fixes
+
+- **deps:** bump minimist from 1.2.5 to 1.2.7 ([fea9876](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/fea9876d71e5cc799c7cb7f196eaa1a60f414ea9))
+
 ## [1.0.8](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.7...v1.0.8) (2023-01-16)
 
 ### Bug Fixes
