@@ -1,3 +1,9 @@
+## [1.0.10](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.9...v1.0.10) (2023-04-27)
+
+### Bug Fixes
+
+- **deps:** bump yaml, @commitlint/load and semantic-release ([ba9a49f](https://github.com/anatoliygatt/use-prefers-color-scheme/commit/ba9a49fc5c9faf432989a1f5af23c5352f1c9374))
+
 ## [1.0.9](https://github.com/anatoliygatt/use-prefers-color-scheme/compare/v1.0.8...v1.0.9) (2023-03-10)
 
 ### Bug Fixes
