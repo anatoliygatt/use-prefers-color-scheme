@@ -59,7 +59,7 @@
     "@types/node": "^18.7.20",
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
-    "@typescript-eslint/eslint-plugin": "^5.9.1",
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
     "@typescript-eslint/parser": "^5.9.1",
     "commitizen": "^4.2.4",
     "conventional-changelog-conventionalcommits": "^5.0.0",
